@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-community
+langchain-openai
+chromadb
+tiktoken
+streamlit
+pandas
+python-dotenv
+openpyxl
